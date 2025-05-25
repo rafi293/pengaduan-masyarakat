@@ -1,7 +1,9 @@
-kelompok 4:
-1.M. Yayak Muliya Saputra (16)
-2.Wahyu Ardiansyah (34)
-3.M. Yusril Fairus Syakib (17)
-4.Ramadhani AL Farisi (26)
-5.Mauludi Pramana Putra (18)
-6.Muhammad Rafi Sabilillah (22)
+# Anggota Kelompok 4
+
+* M. Yayak Mulya Saputra (16)
+* Wahyu Ardiansyah (34)
+* M. Yusril Fairus Syakib (17)
+* Ramadhani AL Farsi (26)
+* Mauludi Pramana Putra (18)
+* Muhammad Rafi Sabillillah (22)
+  
